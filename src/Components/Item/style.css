@@ -1,0 +1,29 @@
+.votearrow {
+    width: 10px;
+    height: 10px;
+    border: 0px;
+    margin: 3px 2px 6px;
+    /* background: url("../images/grayarrow.png") no-repeat; */
+  }
+
+  .storylink {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .comhead {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #828282;
+  }
+
+  .subtext {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 7pt;
+    color: #828282;
+  }
+  
+  .comhead a:link, .subtext a:link, .morelink a:link {
+    color: #828282;
+    text-decoration: none;
+  }

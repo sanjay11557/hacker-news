@@ -1,0 +1,13 @@
+.footerline{
+    height: 0.5px;
+    background-color:  #ff6600;
+}
+.yclinks {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #828282;
+  }
+  
+  form {
+    margin-block-end: 1em;
+  }

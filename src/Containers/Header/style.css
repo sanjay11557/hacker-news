@@ -1,0 +1,15 @@
+.pagetop {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #222222;
+    line-height: 12px;
+  }
+  
+  .hnname {
+    margin-right: 5px;
+  }
+  
+  .pagetop a:link {
+    color: #000000;
+    text-decoration: none;
+  }
